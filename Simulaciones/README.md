@@ -4,7 +4,7 @@ A continuación se presentan los diferentes programas que se hicieron para obten
 
 ## Programa "SimulacionesWAWS"
 
-Este programa esta basado en el método WAWS presentado por Shinozuka
+Este programa está basado en el método WAWS presentado por Shinozuka
 
 ### Archivos necesarios
 Se requiere un archivo de texto (el nombre del archivo lo elige el susario).
