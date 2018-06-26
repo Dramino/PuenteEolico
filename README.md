@@ -15,3 +15,7 @@ Contiene la información de las ecuaciones elementales para la obtención de la 
 ## Capítulo 5
 
 Contiene la información básica para la obtención de simulaciones, y las ecuaciones básicas de ráfagas y vórtices.
+
+## Capítuo 6
+
+Contiene la información para obtener la respuesta en el dominio del tiempo ante ráfagas y desprendimiento de vórtices para una estructura tipo puete.
