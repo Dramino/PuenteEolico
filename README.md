@@ -19,3 +19,7 @@ Contiene la información básica para la obtención de simulaciones, y las ecuac
 ## Capítuo 6
 
 Contiene la información para obtener la respuesta en el dominio del tiempo ante ráfagas y desprendimiento de vórtices para una estructura tipo puete.
+
+## Capítulo 7
+
+Contiente la información para obtener la inestabilidad aeroelástica de una estructura tipo puente.
